@@ -29,10 +29,10 @@
 // })
 
 //1.{
-// #Simple mathod for On/Off the bulb.
+// #Simple mathod for On/Off the bulb using two butons.
 // var bulb = document.querySelector("#bulb")
-// var btn1 = document.querySelector("#On")
-// var btn2 = document.querySelector("#Off")
+// var btn1 = document.querySelector("#On")     //button1(On)
+// var btn2 = document.querySelector("#Off")    //button2(Off)
 // btn1.addEventListener("click",function(){
 //     bulb.style.backgroundColor = "yellow"
 // })
